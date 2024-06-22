@@ -1,0 +1,16 @@
+{
+  "name": "snail-cli",
+  "version": "1.0.0",
+  "description": "前端脚手架",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "snail-cli",
+    "cli"
+  ],
+  "author": "hu-snail",
+  "license": "MIT"
+}
