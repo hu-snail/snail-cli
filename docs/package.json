@@ -1,0 +1,23 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "keywords": [],
+  "author": "hu-snail <1217437592@qq.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "vue": "^3.4.30"
+  },
+  "devDependencies": {
+    "vitepress": "^1.2.3"
+  },
+  "dependencies": {
+    "vue": "^3.4.30"
+  }
+}
